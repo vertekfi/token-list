@@ -1,0 +1,39 @@
+{
+    "keywords": ["aalto", "listed"],
+    "logoURI": "",
+    "name": "AQX",
+    "tokens": [
+        {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+            "name": "Amethyst",
+            "symbol": "AMES"
+        },
+        {
+            "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
+            "name": "Ashare",
+            "symbol": "ASHARE"
+        },
+        {
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+            "name": "BUSD",
+            "symbol": "BUSD"
+        }
+    ]
+}
