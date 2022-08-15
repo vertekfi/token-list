@@ -1,96 +1,102 @@
-[{
-
-  "name": "Amethyst",
-  "symbol": "AMES",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0x7B6C1CBa7040338079e25693287034589d04a6b6",
-  "coingeckoPlatformId": "amethyst",
-  "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
-},{
-
-  "name": "BUSD Token",
-  "symbol": "BUSD",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0xCDCc86CfA84dc6808F87eE997d96C5F8eE5549F4",
-  "coingeckoPlatformId": "binance-usd",
-  "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
-},{
-
-  "name": "ASHARE",
-  "symbol": "ASHARE",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0x942e0291094bf8a5C3EAa364B4468f5dfdc97B6c",
-  "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
-},{
-
-  "name": "Wrapped BNB",
-  "symbol": "WBNB",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0xeFA07706B07934157c0dA4c6e91ac251bd36095a",
-  "coingeckoPlatformId": "binancecoin",
-  "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
-},{
-
-  "name": "Wrapped Ether",
-  "symbol": "WETH",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0xBd0be709AbE750641524fDECA1F49544440B7C0d",
-  "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
-},{
-
-  "name": "Aequinox",
-  "symbol": "AEQ",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0x875cf904E113470F039c5C5f1B85DD17837AD254",
-  "isProtocolToken": true,
-  "coingeckoPlatformId": "",
-  "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
-  "useDexscreener": true,
-  "dexscreenPairAddress": ""
-},{
-
-  "name": "USDC",
-  "symbol": "USDC",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0x1c0b84a4DF2bfeA7A2b4F30E33D6EA1CfEf8373B",
-  "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
-},{
-
-  "name": "USDT",
-  "symbol": "USDT",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0x72a96214DBFfD17385e6eF68885df4fffFC0ADf3",
-  "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
-},{
-
-  "name": "WBTC",
-  "symbol": "WBTC",
-  "decimals": 18,
-  "chainId": 5,
-  "address": "0xc44101175e573760F3d1c27396550F110efD88Cb",
-  "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-  "useDexscreener": true,
-  "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
-}]
+{
+  "keywords": ["aalto", "listed"],
+  "logoURI": "",
+  "name": "AEQ",
+  "tokens": [
+    {
+      "name": "Amethyst",
+      "symbol": "AMES",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0x7B6C1CBa7040338079e25693287034589d04a6b6",
+      "coingeckoPlatformId": "amethyst",
+      "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0xCDCc86CfA84dc6808F87eE997d96C5F8eE5549F4",
+      "coingeckoPlatformId": "binance-usd",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
+    },
+    {
+      "name": "ASHARE",
+      "symbol": "ASHARE",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0x942e0291094bf8a5C3EAa364B4468f5dfdc97B6c",
+      "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0xeFA07706B07934157c0dA4c6e91ac251bd36095a",
+      "coingeckoPlatformId": "binancecoin",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0xBd0be709AbE750641524fDECA1F49544440B7C0d",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
+    },
+    {
+      "name": "Aequinox",
+      "symbol": "AEQ",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0x875cf904E113470F039c5C5f1B85DD17837AD254",
+      "isProtocolToken": true,
+      "coingeckoPlatformId": "",
+      "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
+      "useDexscreener": true,
+      "dexscreenPairAddress": ""
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0x1c0b84a4DF2bfeA7A2b4F30E33D6EA1CfEf8373B",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0x72a96214DBFfD17385e6eF68885df4fffFC0ADf3",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+    },
+    {
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 5,
+      "address": "0xc44101175e573760F3d1c27396550F110efD88Cb",
+      "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
+    }
+  ]
+}
