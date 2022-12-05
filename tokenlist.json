@@ -1,102 +1,216 @@
 {
-  "keywords": ["aalto", "listed"],
-  "logoURI": "",
-  "name": "AEQ",
-  "tokens": [
-    {
-      "name": "Amethyst",
-      "symbol": "AMES",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
-      "coingeckoPlatformId": "amethyst",
-      "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
-    },
-    {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "coingeckoPlatformId": "binance-usd",
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
-    },
-    {
-      "name": "ASHARE",
-      "symbol": "ASHARE",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
-      "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
-    },
-    {
-      "name": "Wrapped BNB",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "coingeckoPlatformId": "binancecoin",
-      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
-    },
-    {
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
-    },
-    {
-      "name": "Aequinox",
-      "symbol": "AEQ",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
-      "isProtocolToken": true,
-      "coingeckoPlatformId": "",
-      "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
-      "useDexscreener": true,
-      "dexscreenPairAddress": ""
-    },
-    {
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
-    },
-    {
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0x55d398326f99059fF775485246999027B3197955",
-      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
-    },
-    {
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "chainId": 56,
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
-    }
-  ]
+  "https://raw.githubusercontent.com/0xBriz/token-list/main/tokenlist.json": {
+    "keywords": [],
+    "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
+    "name": "AEQ",
+    "tokens": [
+      {
+        "name": "Aequinox",
+        "symbol": "AEQ",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
+        "isProtocolToken": true,
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": ""
+      },
+      {
+        "name": "Liquid Staking BNB",
+        "symbol": "BNBx",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x7276241a669489e4bbb76f63d2a43bfe63080f2f",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/b58da930d404d248c172752b72ef11969906c663/images/BNBx_Logo.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0xB88F211EC9ecfc2931Ae1DE53ea28Da76B9Ed37A"
+      },
+      {
+        "name": "Stader (Wormhole)",
+        "symbol": "SD",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x867EB519b05d9C4798B2EdE0B11197274dfDFcC0"
+      },
+      {
+        "name": "Amethyst",
+        "symbol": "AMES",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+        "coingeckoPlatformId": "amethyst",
+        "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "coingeckoPlatformId": "binance-usd",
+        "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
+      },
+      {
+        "name": "ASHARE",
+        "symbol": "ASHARE",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+        "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
+      },
+      {
+        "name": "Wrapped Aalto",
+        "symbol": "wAALTO",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/1336217076f0fcfa734d52bea28fe5e0bfa6e549/images/waalto-token-round.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x4Fea7445F515B215F4284F33CB6bE610d5df0C33"
+      },
+      {
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "coingeckoPlatformId": "binancecoin",
+        "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
+      },
+
+      {
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+      },
+      {
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+      },
+      {
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
+      },
+      {
+        "name": "Bandit Project",
+        "symbol": "BANDIT",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xf22894d191212b6871182417dF61aD832bCe57C7",
+        "isProtocolToken": true,
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/the_bandit_project_token.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x9562b8bc2ff2f3993137827f2da79b23c7a10b4200020000000000000000000b-0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c-0xf22894d191212b6871182417dF61aD832bCe57C7"
+      },
+      {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "coingeckoPlatformId": "dai",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
+      },
+      {
+        "name": "Lion Share",
+        "symbol": "LSHARE",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x50d8D7F7CcEA28cc1C9dDb996689294dC62569cA",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/roaring_lion_share.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0xd203730861d8e4be87a439934c9416c819240344000100000000000000000016-0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3-0x50d8D7F7CcEA28cc1C9dDb996689294dC62569cA"
+      },
+      {
+        "name": "Roaring Lion",
+        "symbol": "LION",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x3CC9E655B6c4f530DFc1b1fC51CeEa65c6344716",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/roaring_lion_token.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x090b21e811dae70c0a83cbcea04553e9df2d1511000200000000000000000015-0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3-0x3CC9E655B6c4f530DFc1b1fC51CeEa65c6344716"
+      },
+      {
+        "name": "Pebble",
+        "symbol": "PEBBLE",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xd50c729cEbb64604b99E1243a54e840527360581",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/3e2a65b205c0185ad59fae2c9b46627f060e3cad/images/pebble.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x016fcb8c8cb43bd0afb0be7486aadee49783487c00020000000000000000002d-0x2170Ed0880ac9A755fd29B2688956BD959F933F8-0xd50c729cEbb64604b99E1243a54e840527360581"
+      },
+      {
+        "name": "Serene",
+        "symbol": "SERENE",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/3e2a65b205c0185ad59fae2c9b46627f060e3cad/images/serene.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x7de5d717696ed640c9af3f2dbb069d71bf874bee00020000000000000000002c-0x2170Ed0880ac9A755fd29B2688956BD959F933F8-0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297"
+      },
+      {
+        "name": "Useless DAO",
+        "symbol": "1USE",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0x60d66a5152612F7D550796910d022Cb2c77B09de",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/09116155d1908f42c47b513869817c6b7438747b/images/1use.png?raw=true",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x932d56136938218ce4D40392484271aE7E7a0e0d"
+      }
+    ]
+  }
 }
