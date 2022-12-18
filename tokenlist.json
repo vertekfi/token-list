@@ -305,6 +305,17 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "useDexscreener": true,
         "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
+      },
+      {
+        "name": "Vertek",
+        "symbol": "VRTK",
+        "decimals": 18,
+        "chainId": 5,
+        "address": "0xb269A278E427478712e2AF0eBa728021157A2114",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
       }
     ]
   }
