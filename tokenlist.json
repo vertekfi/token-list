@@ -212,15 +212,25 @@
         "dexscreenPairAddress": "0x932d56136938218ce4D40392484271aE7E7a0e0d"
       },
       {
-        "name": "Amethyst",
-        "symbol": "AMES",
+        "name": "Vertek",
+        "symbol": "VRTK",
         "decimals": 18,
         "chainId": 5,
-        "address": "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF",
-        "coingeckoPlatformId": "amethyst",
-        "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+        "address": "0xb269A278E427478712e2AF0eBa728021157A2114",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/e7ab76aaf1977e2f774e2d2d8500fdc4faaa4ee5/images/vertek-token-round.png?raw=true",
         "useDexscreener": true,
-        "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
+        "dexscreenPairAddress": ""
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 5,
+        "address": "0x7c85523739053769278a1E5b1F39389b0e5CF539",
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
       },
       {
         "name": "BUSD Token",
@@ -234,16 +244,6 @@
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
       {
-        "name": "ASHARE",
-        "symbol": "ASHARE",
-        "decimals": 18,
-        "chainId": 5,
-        "address": "0x626355410729525eec3fd5628D840d683F24456d",
-        "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
-      },
-      {
         "name": "Wrapped BNB",
         "symbol": "WBNB",
         "decimals": 18,
@@ -255,14 +255,36 @@
         "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
       },
       {
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "name": "WBTC",
+        "symbol": "WBTC",
         "decimals": 18,
         "chainId": 5,
-        "address": "0x7c85523739053769278a1E5b1F39389b0e5CF539",
-        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "address": "0x61a9FD4272521D5aC10C746200fe87A85ff42fe2",
+        "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
         "useDexscreener": true,
-        "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
+        "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
+      },
+      {
+        "name": "Amethyst",
+        "symbol": "AMES",
+        "decimals": 18,
+        "chainId": 5,
+        "address": "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF",
+        "coingeckoPlatformId": "amethyst",
+        "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x81722a6457e1825050B999548a35E30d9f11dB5c"
+      },
+
+      {
+        "name": "ASHARE",
+        "symbol": "ASHARE",
+        "decimals": 18,
+        "chainId": 5,
+        "address": "0x626355410729525eec3fd5628D840d683F24456d",
+        "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x91da56569559b0629f076dE73C05696e34Ee05c1"
       },
 
       {
@@ -285,16 +307,7 @@
         "useDexscreener": true,
         "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
       },
-      {
-        "name": "WBTC",
-        "symbol": "WBTC",
-        "decimals": 18,
-        "chainId": 5,
-        "address": "0x61a9FD4272521D5aC10C746200fe87A85ff42fe2",
-        "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
-      },
+
       {
         "name": "Dai Token",
         "symbol": "DAI",
@@ -305,17 +318,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "useDexscreener": true,
         "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
-      },
-      {
-        "name": "Vertek",
-        "symbol": "VRTK",
-        "decimals": 18,
-        "chainId": 5,
-        "address": "0xb269A278E427478712e2AF0eBa728021157A2114",
-        "coingeckoPlatformId": "",
-        "logoURI": "https://github.com/0xBriz/token-list/blob/e7ab76aaf1977e2f774e2d2d8500fdc4faaa4ee5/images/vertek-token-round.png?raw=true",
-        "useDexscreener": false,
-        "dexscreenPairAddress": ""
       }
     ]
   }
