@@ -292,7 +292,7 @@
         "symbol": "USDC",
         "decimals": 18,
         "chainId": 5,
-        "address": "0x1c0b84a4DF2bfeA7A2b4F30E33D6EA1CfEf8373B",
+        "address": "0x5277c419719d5E71394371c6189171c83e37fd7c",
         "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "useDexscreener": true,
         "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
