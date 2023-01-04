@@ -1,7 +1,7 @@
 {
-  "https://raw.githubusercontent.com/vertekfi/token-list/main/tokenlist.json": {
+  "https://raw.githubusercontent.com/0xBriz/token-list/main/tokenlist.json": {
     "keywords": [],
-    "logoURI": "https://github.com/0xBriz/token-list/blob/e7ab76aaf1977e2f774e2d2d8500fdc4faaa4ee5/images/vertek-token-round.png?raw=true",
+    "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
     "name": "AEQ",
     "tokens": [
       {
