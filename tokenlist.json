@@ -295,7 +295,7 @@
         "address": "0x5277c419719d5E71394371c6189171c83e37fd7c",
         "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "useDexscreener": true,
-        "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+        "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
       {
         "name": "USDT",
@@ -305,7 +305,7 @@
         "address": "0x1ab40126513036458e00Cc827FFd9e7D0436219d",
         "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "useDexscreener": true,
-        "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
+        "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
 
       {
