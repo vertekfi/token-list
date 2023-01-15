@@ -22,7 +22,8 @@
         "decimals": 18,
         "chainId": 56,
         "address": "0x7276241a669489e4bbb76f63d2a43bfe63080f2f",
-        "coingeckoPlatformId": "",
+        "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoContractAddress": "0x7276241a669489e4bbb76f63d2a43bfe63080f2f",
         "logoURI": "https://github.com/0xBriz/token-list/blob/b58da930d404d248c172752b72ef11969906c663/images/BNBx_Logo.png?raw=true",
         "useDexscreener": true,
         "dexscreenPairAddress": "0xB88F211EC9ecfc2931Ae1DE53ea28Da76B9Ed37A"
@@ -34,6 +35,7 @@
         "chainId": 56,
         "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
         "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoContractAddress": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
         "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667",
         "useDexscreener": true,
         "dexscreenPairAddress": "0x867EB519b05d9C4798B2EdE0B11197274dfDFcC0"
@@ -56,8 +58,9 @@
         "chainId": 56,
         "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoContractAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
       {
@@ -88,8 +91,9 @@
         "chainId": 56,
         "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoContractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
       },
       {
@@ -99,8 +103,9 @@
         "chainId": 56,
         "coingeckoPlatformId": "binance-smart-chain",
         "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "coingeckoContractAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
         "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
       },
 
@@ -111,8 +116,9 @@
         "chainId": 56,
         "coingeckoPlatformId": "binance-smart-chain",
         "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "coingeckoContractAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
       },
       {
@@ -122,8 +128,9 @@
         "chainId": 56,
         "coingeckoPlatformId": "binance-smart-chain",
         "address": "0x55d398326f99059fF775485246999027B3197955",
+        "coingeckoContractAddress": "0x55d398326f99059fF775485246999027B3197955",
         "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x3416cF6C708Da44DB2624D63ea0AAef7113527C6"
       },
       {
@@ -133,8 +140,9 @@
         "chainId": 56,
         "coingeckoPlatformId": "binance-smart-chain",
         "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "coingeckoContractAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
         "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
       },
       {
@@ -155,8 +163,9 @@
         "chainId": 56,
         "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
         "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoContractAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
         "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
       },
       {
@@ -234,7 +243,7 @@
         "address": "0x7c85523739053769278a1E5b1F39389b0e5CF539",
         "coingeckoContractAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
         "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
       },
       {
@@ -246,7 +255,7 @@
         "coingeckoPlatformId": "binance-smart-chain",
         "coingeckoContractAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
       {
@@ -258,7 +267,7 @@
         "coingeckoPlatformId": "binance-smart-chain",
         "coingeckoContractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
       },
       {
@@ -270,7 +279,7 @@
         "coingeckoContractAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
         "address": "0x61a9FD4272521D5aC10C746200fe87A85ff42fe2",
         "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082"
       },
       {
@@ -305,7 +314,7 @@
         "coingeckoContractAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         "address": "0x5277c419719d5E71394371c6189171c83e37fd7c",
         "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
       {
@@ -317,7 +326,7 @@
         "coingeckoContractAddress": "0x55d398326f99059fF775485246999027B3197955",
         "address": "0x1ab40126513036458e00Cc827FFd9e7D0436219d",
         "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
 
@@ -330,7 +339,7 @@
         "coingeckoPlatformId": "binance-smart-chain",
         "coingeckoContractAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
         "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
-        "useDexscreener": true,
+        "useDexscreener": false,
         "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
       }
     ]
