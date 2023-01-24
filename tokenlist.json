@@ -285,14 +285,18 @@
         "dexscreenPairAddress": ""
       },
       {
-        "name": "Vertek",
-        "symbol": "VRTK",
+        "address": "0x7A5C2C519A8e0F384692280fd4cFF02261557F76"
+      },
+      {
+        "name": "xAMES",
+        "symbol": "xAMES",
         "decimals": 18,
-        "chainId": 5,
+        "chainId": 56,
         "address": "0xa5694789C0BaED77d16ca36edC45C9366DBFe0A9",
         "coingeckoPlatformId": "",
-        "logoURI": "https://github.com/0xBriz/token-list/blob/e7ab76aaf1977e2f774e2d2d8500fdc4faaa4ee5/images/vertek-token-round.png?raw=true",
-        "useDexscreener": true,
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/2434d62ca227c8c24eb581bbaaae9f0ca044a2af/images/xames-token-1600-round.png",
+        "useDexscreener": false,
+        "usePoolPricing": true,
         "dexscreenPairAddress": ""
       },
       {
@@ -519,6 +523,18 @@
         "logoURI": "",
         "useDexscreener": true,
         "dexscreenPairAddress": "0x7d295a5ABeb5eCdD3074c7fB5B3e1B4adD4eCbA3"
+      },
+      {
+        "name": "xAMES",
+        "symbol": "xAMES",
+        "decimals": 18,
+        "chainId": 5,
+        "address": "0xBF456e11212AA1b133DDe9a53ef98281b789DD8D",
+        "coingeckoPlatformId": "",
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/2434d62ca227c8c24eb581bbaaae9f0ca044a2af/images/xames-token-1600-round.png",
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       }
     ]
   }
