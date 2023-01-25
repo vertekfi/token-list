@@ -300,6 +300,20 @@
         "dexscreenPairAddress": ""
       },
       {
+        "name": "Vertek",
+        "symbol": "VRTK",
+        "decimals": 18,
+        "chainId": 5,
+        "coingeckoPlatformId": "",
+        "coingeckoTokenId": "",
+        "address": "0x5E1D334E7CFF8436bA39E24d452eB6E8451B5F9b",
+        "coingeckoContractAddress": "",
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/786c88566c8249415294d4fc73274559c99b15df/images/vertek-token-round.png",
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
