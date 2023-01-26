@@ -215,7 +215,7 @@
       },
       {
         "name": "Pebble",
-        "symbol": "PEBBLE",
+        "symbol": "PEBBLE V2",
         "decimals": 18,
         "chainId": 56,
         "address": "0xd50c729cEbb64604b99E1243a54e840527360581",
@@ -226,7 +226,7 @@
       },
       {
         "name": "Serene",
-        "symbol": "SERENE",
+        "symbol": "SERENE V2",
         "decimals": 18,
         "chainId": 56,
         "address": "0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297",
