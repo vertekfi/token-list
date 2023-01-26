@@ -5,6 +5,20 @@
     "name": "Vertek",
     "tokens": [
       {
+        "name": "Vertek",
+        "symbol": "VRTK",
+        "decimals": 18,
+        "chainId": 56,
+        "coingeckoPlatformId": "",
+        "coingeckoTokenId": "",
+        "address": "0xeD236c32f695c83Efde232c288701d6f9C23E60E",
+        "coingeckoContractAddress": "",
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/786c88566c8249415294d4fc73274559c99b15df/images/vertek-token-round.png",
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Aequinox",
         "symbol": "AEQ",
         "decimals": 18,
