@@ -18,18 +18,6 @@
         "usePoolPricing": true,
         "dexscreenPairAddress": ""
       },
-      // {
-      //   "name": "Aequinox",
-      //   "symbol": "AEQ",
-      //   "decimals": 18,
-      //   "chainId": 56,
-      //   "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
-      //   "isProtocolToken": true,
-      //   "coingeckoPlatformId": "",
-      //   "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
-      //   "useDexscreener": true,
-      //   "dexscreenPairAddress": ""
-      // },
       {
         "name": "Liquid Staking BNB",
         "symbol": "BNBx",
