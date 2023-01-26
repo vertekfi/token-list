@@ -18,18 +18,18 @@
         "usePoolPricing": true,
         "dexscreenPairAddress": ""
       },
-      {
-        "name": "Aequinox",
-        "symbol": "AEQ",
-        "decimals": 18,
-        "chainId": 56,
-        "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
-        "isProtocolToken": true,
-        "coingeckoPlatformId": "",
-        "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": ""
-      },
+      // {
+      //   "name": "Aequinox",
+      //   "symbol": "AEQ",
+      //   "decimals": 18,
+      //   "chainId": 56,
+      //   "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
+      //   "isProtocolToken": true,
+      //   "coingeckoPlatformId": "",
+      //   "logoURI": "https://github.com/0xBriz/token-list/blob/main/images/aeq_token.png?raw=true",
+      //   "useDexscreener": true,
+      //   "dexscreenPairAddress": ""
+      // },
       {
         "name": "Liquid Staking BNB",
         "symbol": "BNBx",
@@ -41,7 +41,7 @@
         "coingeckoContractAddress": "0x7276241a669489e4bbb76f63d2a43bfe63080f2f",
         "logoURI": "https://github.com/0xBriz/token-list/blob/b58da930d404d248c172752b72ef11969906c663/images/BNBx_Logo.png?raw=true",
         "useDexscreener": false,
-        "dexscreenPairAddress": "0xB88F211EC9ecfc2931Ae1DE53ea28Da76B9Ed37A"
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Stader (Wormhole)",
@@ -54,7 +54,7 @@
         "coingeckoContractAddress": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
         "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667",
         "useDexscreener": false,
-        "dexscreenPairAddress": "0x867EB519b05d9C4798B2EdE0B11197274dfDFcC0"
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Amethyst",
