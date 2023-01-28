@@ -209,8 +209,9 @@
         "address": "0xd50c729cEbb64604b99E1243a54e840527360581",
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/3e2a65b205c0185ad59fae2c9b46627f060e3cad/images/pebble.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x016fcb8c8cb43bd0afb0be7486aadee49783487c00020000000000000000002d-0x2170Ed0880ac9A755fd29B2688956BD959F933F8-0xd50c729cEbb64604b99E1243a54e840527360581"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Serene",
@@ -220,8 +221,9 @@
         "address": "0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297",
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/3e2a65b205c0185ad59fae2c9b46627f060e3cad/images/serene.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x7de5d717696ed640c9af3f2dbb069d71bf874bee00020000000000000000002c-0x2170Ed0880ac9A755fd29B2688956BD959F933F8-0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Useless DAO",
