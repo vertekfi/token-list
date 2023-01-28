@@ -187,8 +187,9 @@
         "address": "0x50d8D7F7CcEA28cc1C9dDb996689294dC62569cA",
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/roaring_lion_share.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0xd203730861d8e4be87a439934c9416c819240344000100000000000000000016-0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3-0x50d8D7F7CcEA28cc1C9dDb996689294dC62569cA"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Roaring Lion",
@@ -198,8 +199,9 @@
         "address": "0x3CC9E655B6c4f530DFc1b1fC51CeEa65c6344716",
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/roaring_lion_token.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x090b21e811dae70c0a83cbcea04553e9df2d1511000200000000000000000015-0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3-0x3CC9E655B6c4f530DFc1b1fC51CeEa65c6344716"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Pebble",
