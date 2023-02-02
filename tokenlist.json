@@ -288,6 +288,7 @@
         "symbol": "TUSD",
         "decimals": 18,
         "chainId": 56,
+        "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
         "coingeckoPlatformId": "binance-smart-chain",
         "coingeckoTokenId": "true-usd",
         "coingeckoContractAddress": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
