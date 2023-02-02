@@ -276,7 +276,9 @@
         "decimals": 18,
         "chainId": 56,
         "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
-        "coingeckoPlatformId": "frax",
+        "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoTokenId": "frax",
+        "coingeckoContractAddress": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
         "logoURI": "https://assets.coingecko.com/coins/images/13422/small/ethCanonicalFRAX.png?1669277108",
         "useDexscreener": false,
         "dexscreenPairAddress": ""
@@ -286,8 +288,9 @@
         "symbol": "TUSD",
         "decimals": 18,
         "chainId": 56,
-        "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
-        "coingeckoPlatformId": "true-usd",
+        "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoTokenId": "true-usd",
+        "coingeckoContractAddress": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
         "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665",
         "useDexscreener": false,
         "dexscreenPairAddress": ""
