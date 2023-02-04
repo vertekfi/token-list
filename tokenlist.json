@@ -118,19 +118,6 @@
         "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
       },
       {
-        "name": "BNB",
-        "symbol": "BNB",
-        "decimals": 18,
-        "chainId": 56,
-        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "coingeckoPlatformId": "binance-smart-chain",
-        "coingeckoTokenId": "binancecoin",
-        "coingeckoContractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-        "useDexscreener": false,
-        "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
-      },
-      {
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
