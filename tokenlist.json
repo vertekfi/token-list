@@ -19,6 +19,19 @@
         "dexscreenPairAddress": ""
       },
       {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+        "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoTokenId": "fantom",
+        "coingeckoContractAddress": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+        "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom_round.png?1669652346",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Liquid Staking BNB",
         "symbol": "BNBx",
         "decimals": 18,
@@ -180,6 +193,17 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "useDexscreener": false,
         "dexscreenPairAddress": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489"
+      },
+      {
+        "name": "Magik",
+        "symbol": "MAGIK",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xD68F75b3aa54bee23e6Ac3AD4b3C28D3E6319725",
+        "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/Magik_Logo.png?raw=true",
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Lion Share",
