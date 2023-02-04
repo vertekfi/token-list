@@ -113,6 +113,19 @@
         "coingeckoPlatformId": "binance-smart-chain",
         "coingeckoTokenId": "wbnb",
         "coingeckoContractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png?1600947313",
+        "useDexscreener": false,
+        "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "chainId": 56,
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "coingeckoPlatformId": "binance-smart-chain",
+        "coingeckoTokenId": "binancecoin",
+        "coingeckoContractAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
         "useDexscreener": false,
         "dexscreenPairAddress": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
