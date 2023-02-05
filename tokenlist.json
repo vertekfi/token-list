@@ -214,9 +214,9 @@
         "chainId": 56,
         "address": "0xD68F75b3aa54bee23e6Ac3AD4b3C28D3E6319725",
         "logoURI": "https://github.com/0xBriz/token-list/blob/89dd62ce4acba1b55d908bf08d42e7ef00ef160a/images/Magik_Logo.png?raw=true",
-        "useDexscreener": false,
-        "usePoolPricing": true,
-        "dexscreenPairAddress": ""
+        "useDexscreener": true,
+        "usePoolPricing": false,
+        "dexscreenPairAddress": "0x3cd3e322f0112a296192e3dc2742e96d5107dcf8"
       },
       {
         "name": "Lion Share",
