@@ -101,8 +101,9 @@
         "address": "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da",
         "coingeckoPlatformId": "",
         "logoURI": "https://github.com/0xBriz/token-list/blob/1336217076f0fcfa734d52bea28fe5e0bfa6e549/images/waalto-token-round.png?raw=true",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x4Fea7445F515B215F4284F33CB6bE610d5df0C33"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Wrapped BNB",
