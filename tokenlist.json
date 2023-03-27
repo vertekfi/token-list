@@ -352,7 +352,7 @@
         "chainId": 56,
         "address": "0xADD201771400783B465f550c1907713A8b839823",
         "coingeckoPlatformId": "",
-        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/daca9ba64afc41090b7e1e856547619a592608cd/images/UP-Arrow.png",
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/b29923980ade7c64fbd0f5b441cb501742739c3c/images/up_plus.png",
         "useDexscreener": false,
         "usePoolPricing": true,
         "dexscreenPairAddress": ""
