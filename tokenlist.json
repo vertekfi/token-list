@@ -5,6 +5,19 @@
     "name": "Vertek",
     "tokens": [
       {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "decimals": 18,
+        "chainId": 42161,
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "coingeckoPlatformId": "arbitrum-one",
+        "coingeckoTokenId": "arbitrum",
+        "coingeckoContractAddress": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "logoURI": "https://assets.coingecko.com/coins/images/16547/small/AF_logomark.png?1679671868",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Vertek",
         "symbol": "VRTK",
         "decimals": 18,
@@ -131,7 +144,6 @@
         "useDexscreener": false,
         "dexscreenPairAddress": "0x531FEbfeb9a61D948c384ACFBe6dCc51057AEa7e"
       },
-
       {
         "name": "USDC",
         "symbol": "USDC",
@@ -470,7 +482,6 @@
         "useDexscreener": false,
         "dexscreenPairAddress": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00"
       },
-
       {
         "name": "Dai Token",
         "symbol": "DAI",
