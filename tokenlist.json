@@ -440,8 +440,9 @@
         "chainId": 56,
         "address": "0xc91324601B20ea0e238B63c9fAfca18d32600722",
         "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/c0c05793f4c0a1ba8ae5a9781cc394fd29cb0b98/images/Sword_token.png",
-        "useDexscreener": true,
-        "dexscreenPairAddress": "0x4a931BD6Ab3ab804ae392223C5920426C153DA25"
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
       },
       {
         "name": "Shield",
