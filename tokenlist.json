@@ -27,7 +27,7 @@
         "coingeckoPlatformId": "arbitrum-one",
         "coingeckoTokenId": "arbitrum",
         "coingeckoContractAddress": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-        "logoURI": "https://assets.coingecko.com/coins/images/16547/small/AF_logomark.png?1679671868",
+        "logoURI": "hhttps://developer.arbitrum.io/img/logo.svg",
         "useDexscreener": false,
         "dexscreenPairAddress": ""
       },
