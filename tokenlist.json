@@ -5,6 +5,20 @@
     "name": "Vertek",
     "tokens": [
       {
+        "name": "Arbitek",
+        "symbol": "ARTK",
+        "decimals": 18,
+        "chainId": 42161,
+        "address": "0x412A1ab6A00B50A7ad2306C994ae609Bd823ad87",
+        "coingeckoPlatformId": "",
+        "coingeckoTokenId": "",
+        "coingeckoContractAddress": "",
+        "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/786c88566c8249415294d4fc73274559c99b15df/images/vertek-token-round.png",
+        "useDexscreener": false,
+        "usePoolPricing": true,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18,
@@ -109,6 +123,19 @@
         "dexscreenPairAddress": ""
       },
       {
+        "name": "Mai Stablecoin",
+        "symbol": "MAI",
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "decimals": 18,
+        "chainId": 42161,
+        "coingeckoPlatformId": "arbitrum-one",
+        "coingeckoTokenId": "mimatic",
+        "coingeckoContractAddress": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Magic Internet Money",
         "symbol": "MIM",
         "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
@@ -170,6 +197,32 @@
         "coingeckoTokenId": "the-graph",
         "coingeckoContractAddress": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
         "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
+        "name": "Curve DAO",
+        "symbol": "CRV",
+        "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "decimals": 18,
+        "chainId": 42161,
+        "coingeckoPlatformId": "arbitrum-one",
+        "coingeckoTokenId": "curve-dao-token",
+        "coingeckoContractAddress": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+        "decimals": 18,
+        "chainId": 42161,
+        "coingeckoPlatformId": "arbitrum-one",
+        "coingeckoTokenId": "frax-ether",
+        "coingeckoContractAddress": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+        "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981",
         "useDexscreener": false,
         "dexscreenPairAddress": ""
       },
@@ -440,9 +493,8 @@
         "chainId": 56,
         "address": "0xc91324601B20ea0e238B63c9fAfca18d32600722",
         "logoURI": "https://raw.githubusercontent.com/vertekfi/token-list/c0c05793f4c0a1ba8ae5a9781cc394fd29cb0b98/images/Sword_token.png",
-        "useDexscreener": false,
-        "usePoolPricing": true,
-        "dexscreenPairAddress": ""
+        "useDexscreener": true,
+        "dexscreenPairAddress": "0x4a931BD6Ab3ab804ae392223C5920426C153DA25"
       },
       {
         "name": "Shield",
