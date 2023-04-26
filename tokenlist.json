@@ -19,6 +19,19 @@
         "dexscreenPairAddress": ""
       },
       {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 42161,
+        "coingeckoPlatformId": "arbitrum-one",
+        "coingeckoTokenId": "ethereum",
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "coingeckoContractAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "useDexscreener": false,
+        "dexscreenPairAddress": ""
+      },
+      {
         "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18,
