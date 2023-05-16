@@ -53,7 +53,7 @@
         "coingeckoPlatformId": "arbitrum-one",
         "coingeckoTokenId": "arbitrum",
         "coingeckoContractAddress": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-        "logoURI": "hhttps://developer.arbitrum.io/img/logo.svg",
+        "logoURI": "https://developer.arbitrum.io/img/logo.svg",
         "useDexscreener": false,
         "dexscreenPairAddress": ""
       },
